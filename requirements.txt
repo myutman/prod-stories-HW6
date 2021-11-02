@@ -1,0 +1,4 @@
+cyhunspell
+pandas
+fonetika
+jellyfish
