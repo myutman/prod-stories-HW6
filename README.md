@@ -5,3 +5,5 @@ $ pip3 install -r requirements.txt</pre>
 
 ## Запуск
 Пример запуска можно посмотреть в <a href="https://github.com/myutman/prod-stories-HW6/blob/master/example.ipynb">ноутбуке</a>
+
+Чтобы посчитались корпусные вероятности, необходимо скачать <a href="https://github.com/myutman/prod-stories-HW6/blob/master/example.ipynb">корпус</a> и положить его в директорию, откуда происходит запуск
